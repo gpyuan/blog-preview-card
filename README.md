@@ -1,10 +1,11 @@
 # Blog Preview Card 頁面
 
+🟢 [立即查看 DEMO](https://gpyuan.github.io/blog-preview-card/)
+
 這是參與 Frontend Mentor 挑戰製作的「部落格預覽卡片」網頁切版練習作品。
 
 ## 📸 預覽畫面
 
-![預覽圖](./images/illustration-article.svg)
 ![blog-preview-card Screenshot](./images/screenshot.png)
 
 ## 🔧 使用技術
